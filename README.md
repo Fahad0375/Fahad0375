@@ -1,7 +1,7 @@
 <img align="center"  src="https://github.com/Fahad0375/Fahad0375/blob/main/java-devlopers.png">
 
 <h1 align="center">Hi 👋, I'm Fahad Ali</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center"><b>A Passionate Java Developer</b></h3>
 
 <img align="right" width="400" src="https://github.com/Fahad0375/Fahad0375/blob/main/developer.gif">
 
